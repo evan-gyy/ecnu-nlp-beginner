@@ -1,6 +1,6 @@
 # NLP-Beginner：自然语言处理入门练习
 
-新加入本实验室的同学，请按要求完成下面练习，并提交报告。
+新加入本实验室的同学，请按要求完成下面练习，并提交报告(引用自：https://github.com/FudanNLP/nlp-beginner)。
 
 参考：
 
